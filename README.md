@@ -1,7 +1,7 @@
-# Indus University\Fixing and Converting Voucher Wise Deposit Report to xlsx
- For Indus University Only
+# Fixing and Converting Voucher Wise Deposit Report to xlsx
+ Automation process designed for an institute
 
-"Voucher Wise Report" daily uploads on website for students query. Website is not the part of Indus University EMS so we download that report daily and covert that csv report to our required format. Voucher Wise Report downloaded from Indus University EMS has 2 issues.
+"Voucher Wise Report" daily uploads on website for students query. Website is not the part of institute's EMS so they download that report daily and covert that csv report to our required format. Voucher Wise Report downloaded has 2 issues.
 
 1- Receipts Column is Blank (So we'll read the narration and place the number in the column)
 
